@@ -1,0 +1,18 @@
+# For both Visualizations 1 and 2
+# Source was from the UCI machine learning repository
+# Student Performance Data Set, I used the Math marks
+# file is called "student-mat.csv"
+# https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
+For Visualization 1 I used Final grades and ages from 15-20 
+(ages 21 and 22 are included in the data set but they don't have enough values to perform STDEV Calculations)
+
+For Visualization 2 I used the number of absences and Walc values (prevalence of alcohol usage during workdays)
+
+
+
+# For Visualization 3
+# Source was from Princeton Intro CS Repository
+# https://introcs.cs.princeton.edu/java/data/
+# file is called "bible.txt"
+# their source was project Gutenberg
